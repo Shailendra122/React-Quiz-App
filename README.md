@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://safdarjamal.github.io/quiz-app/">
+  <a href="[https://github.com/Shailendra122/React-Quiz-App.git]">
     QuizApp
   </a>
 </h1>
